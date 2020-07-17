@@ -26,8 +26,7 @@ const HomePage = (props) => {
     {
       src:
         "https://www.logo.wine/a/logo/MDN_Web_Docs/MDN_Web_Docs-Logo.wine.svg",
-      link:
-        "https://es.coursera.org/learn/html-css-javascript-for-web-developers",
+      link: "https://developer.mozilla.org/es/",
     },
     {
       src:
@@ -52,7 +51,8 @@ const HomePage = (props) => {
 
   return (
     <div className="home-container">
-      <h1 className="title">Resources</h1>
+      <h1 className="title">Resources 234</h1>
+      <div></div>
       <div className="sections-container">
         <div>
           <h1 className="title">Learning</h1>
