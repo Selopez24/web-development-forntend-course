@@ -1,0 +1,11 @@
+.trinity {
+  width: 25%;
+  margin: 50px 0;
+}
+
+.continue {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100px;
+  cursor: pointer;
+}
