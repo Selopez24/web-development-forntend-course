@@ -1,8 +1,8 @@
 {
+  "homepage": "http://selopez24.github.io/web-development-frontend-course",
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Selopez24.github.io/web-development-frontend-course",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
