@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web-development-frontend-course/static/css/main.9519d7e7.chunk.css",
+    "main.js": "/web-development-frontend-course/static/js/main.1a624666.chunk.js",
+    "main.js.map": "/web-development-frontend-course/static/js/main.1a624666.chunk.js.map",
+    "runtime-main.js": "/web-development-frontend-course/static/js/runtime-main.498a8c7a.js",
+    "runtime-main.js.map": "/web-development-frontend-course/static/js/runtime-main.498a8c7a.js.map",
+    "static/js/2.767ea1ec.chunk.js": "/web-development-frontend-course/static/js/2.767ea1ec.chunk.js",
+    "static/js/2.767ea1ec.chunk.js.map": "/web-development-frontend-course/static/js/2.767ea1ec.chunk.js.map",
+    "index.html": "/web-development-frontend-course/index.html",
+    "precache-manifest.34019da24ed3847958723827f3715917.js": "/web-development-frontend-course/precache-manifest.34019da24ed3847958723827f3715917.js",
+    "service-worker.js": "/web-development-frontend-course/service-worker.js",
+    "static/css/main.9519d7e7.chunk.css.map": "/web-development-frontend-course/static/css/main.9519d7e7.chunk.css.map",
+    "static/js/2.767ea1ec.chunk.js.LICENSE.txt": "/web-development-frontend-course/static/js/2.767ea1ec.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/web-development-frontend-course/static/media/logo.5d5d9eef.svg",
+    "static/media/trinity.png": "/web-development-frontend-course/static/media/trinity.b5d28b7e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.498a8c7a.js",
+    "static/js/2.767ea1ec.chunk.js",
+    "static/css/main.9519d7e7.chunk.css",
+    "static/js/main.1a624666.chunk.js"
+  ]
+}
