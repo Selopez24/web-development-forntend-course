@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a46686c6ec26ec43d57138b7c40e214b",
+    "revision": "5ee1555b43abb4894ed94955f3263291",
     "url": "/web-development-frontend-course/index.html"
   },
   {
-    "revision": "508cafd46cf8310988c0",
+    "revision": "614ab0ff5c3975689724",
     "url": "/web-development-frontend-course/static/css/main.9519d7e7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web-development-frontend-course/static/js/2.767ea1ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "508cafd46cf8310988c0",
-    "url": "/web-development-frontend-course/static/js/main.1a624666.chunk.js"
+    "revision": "614ab0ff5c3975689724",
+    "url": "/web-development-frontend-course/static/js/main.ede2f552.chunk.js"
   },
   {
     "revision": "cc08f8e1d453c3e289d4",
