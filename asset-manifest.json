@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/web-development-frontend-course/static/css/main.9519d7e7.chunk.css",
-    "main.js": "/web-development-frontend-course/static/js/main.ede2f552.chunk.js",
-    "main.js.map": "/web-development-frontend-course/static/js/main.ede2f552.chunk.js.map",
+    "main.css": "/web-development-frontend-course/static/css/main.340f1405.chunk.css",
+    "main.js": "/web-development-frontend-course/static/js/main.89e21c8e.chunk.js",
+    "main.js.map": "/web-development-frontend-course/static/js/main.89e21c8e.chunk.js.map",
     "runtime-main.js": "/web-development-frontend-course/static/js/runtime-main.498a8c7a.js",
     "runtime-main.js.map": "/web-development-frontend-course/static/js/runtime-main.498a8c7a.js.map",
     "static/js/2.767ea1ec.chunk.js": "/web-development-frontend-course/static/js/2.767ea1ec.chunk.js",
     "static/js/2.767ea1ec.chunk.js.map": "/web-development-frontend-course/static/js/2.767ea1ec.chunk.js.map",
     "index.html": "/web-development-frontend-course/index.html",
-    "precache-manifest.8def86783d001395132ab73119460000.js": "/web-development-frontend-course/precache-manifest.8def86783d001395132ab73119460000.js",
+    "precache-manifest.81d50d2a35a9ffe28b266f4388cc9879.js": "/web-development-frontend-course/precache-manifest.81d50d2a35a9ffe28b266f4388cc9879.js",
     "service-worker.js": "/web-development-frontend-course/service-worker.js",
-    "static/css/main.9519d7e7.chunk.css.map": "/web-development-frontend-course/static/css/main.9519d7e7.chunk.css.map",
+    "static/css/main.340f1405.chunk.css.map": "/web-development-frontend-course/static/css/main.340f1405.chunk.css.map",
     "static/js/2.767ea1ec.chunk.js.LICENSE.txt": "/web-development-frontend-course/static/js/2.767ea1ec.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/web-development-frontend-course/static/media/logo.5d5d9eef.svg",
+    "static/media/logo.svg": "/web-development-frontend-course/static/media/logo.ee7cd8ed.svg",
     "static/media/trinity.png": "/web-development-frontend-course/static/media/trinity.b5d28b7e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.498a8c7a.js",
     "static/js/2.767ea1ec.chunk.js",
-    "static/css/main.9519d7e7.chunk.css",
-    "static/js/main.ede2f552.chunk.js"
+    "static/css/main.340f1405.chunk.css",
+    "static/js/main.89e21c8e.chunk.js"
   ]
 }
