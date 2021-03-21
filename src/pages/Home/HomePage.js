@@ -51,7 +51,7 @@ const HomePage = (props) => {
 
   return (
     <div className="home-container">
-      <h1 className="title">Resources 234</h1>
+      <h1 className="title">Resources</h1>
       <div></div>
       <div className="sections-container">
         <div>
